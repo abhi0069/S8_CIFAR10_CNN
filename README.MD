@@ -3,17 +3,17 @@ This project implements a CNN model for CIFAR-10 image classification using dila
 
 ## Features
 - **Advanced Model Architecture**
--  - Depthwise Separable Convolutions
--  - Dilated Convolutions with progressive dilation rates
--  - Global Average Pooling
--  - Batch Normalization
--  - Dropout for regularization
+  - Depthwise Separable Convolutions
+  - Dilated Convolutions with progressive dilation rates
+  - Global Average Pooling
+  - Batch Normalization
+  - Dropout for regularization
 
 - **Data Augmentation (Albumentations)**
--  - Horizontal Flips
--  - ShiftScaleRotate
--  - CoarseDropout (Cutout)
--  - Normalization
+  - Horizontal Flips
+  - ShiftScaleRotate
+  - CoarseDropout (Cutout)
+  - Normalization
 
 ## Key components:
  - Input → 3 channels

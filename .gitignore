@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data
+data/
+*.pth
+*.pt
+*.pkl
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific files
+s8_model_8(albumentations)(Prototype).ipynb
+s8_model_8(albumentations)(Prototype).py
+s8_model_8(albumentations).ipynb
+S8_Model_7(Dilated kernels) Logs.txt
+S8_Model_8(albumentations) Logs(Flawed).txt
+S8_Model_8(albumentations) Logs.txt 
